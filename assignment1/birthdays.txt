@@ -1,0 +1,26 @@
+#1 a
+x[1][0]
+#1 b
+x[1]
+#1 c
+row-major
+#2
+sprinf()
+#3
+list
+#4 a
+os.listdir(‘handin’)
+#4 b
+fl = ‘use.deny’
+#4 c
+cp = os.path.abspath(‘handin’)
+#4 d 
+os.chdir(‘cp../users.deny.’)
+#4 e
+findfile(‘cp’,fl)
+#5 a
+type(elt) ==‘list’
+#5 b
+flatten(elt)
+#5 c
+build.append=[elt]
